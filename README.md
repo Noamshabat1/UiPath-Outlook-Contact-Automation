@@ -1,5 +1,5 @@
 
-# Automated Process in UiPath Studio
+# Automated Process Using UiPath Studio
 
 This project involves building a workflow in UiPath Studio that automatically adds contacts to Outlook based on an attached Excel file. The development is done in the .NET environment, specifically using VB.NET.
 
